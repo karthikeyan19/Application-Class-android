@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Techie Quiz</string>
+    <string name="lbl_quiz_start">Start the Quiz</string>
+    <string name="lbl_topic">Quiz: QUIZ: Apple Inc.</string>
+    <string name="head_quiz">Question ? out of 5</string>
+    <string name="prev">prev</string>
+    <string name="next">next</string>
+    <string name="result">Result</string>
+    <string name="one">1</string>
+    <string name="out_five">/5</string>
+    <string name="thanking_lbl">Thank you for taking quiz in Techie quiz app</string>
+    <string name="back_to_home">Back to Home</string>
+
+    <string-array name="questions">
+        <item>What was Apple\'s first sales slogan?</item>
+        <item>How long after its April 3, 2010 release did Apple Stores sell their millionth iPad?</item>
+        <item>What ceremony was performed for Josh and Ting Li at an Apple Store in February 2010?</item>
+        <item>Which former U.S. presidential candidate sits on Apple\'s board of directors?</item>
+        <item>Which carrier is the exclusive provider for the iPhone?</item>
+    </string-array>
+
+    <string-array name="options">
+        <item>An Apple A Day,Byte Into An Apple,No Worms In This Apple,One Great Apple</item>
+        <item>8 days,18 days,28 days,38 days</item>
+        <item>Baptism,Confirmation,Recommitment,Wedding</item>
+        <item>Al Gore,Jim Gilmore,Matt Gonzales,Stephen Colbert</item>
+        <item> AT &amp; T,Cingular,Time Warner,Verizon</item>
+    </string-array>
+
+</resources>
